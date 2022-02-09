@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namagithub = 'https://github.com/Larasatilaras'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy 1'
-namakontak2 = 'AlyaaXzy 2'
+namakontak1 = 'ItsmeLaras 1'
+namakontak2 = 'LarasXTzy 2'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By ItsmeLaras' // ganti aja
+global.author = 'LarasXTzy' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+bc = 'LarasXBotz' //LarasXBotz Broadcast
+footer = '\n©LarasXtzy'
+namabot = 'LarasXBotz'
+namalu = 'ItsmeLaras'
 
 
 // 
@@ -72,7 +72,7 @@ global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
-// Ubah saja SC dari AlyaaXzy
+// Ubah saja SC dari ItsmeLaras
 global.image = 'https://telegra.ph/file/338349c86c4fcd540968b.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
